@@ -148,6 +148,7 @@ params:
       closed: true
     - name: Discord Bots
       description: Status unserer Bots
+      closed: true
     - name: Game Server
       description: Status unserer Game Server
       closed: true
